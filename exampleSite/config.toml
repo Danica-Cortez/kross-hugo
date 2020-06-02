@@ -4,9 +4,6 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Culture Cat"
 [[menu.main]]
-name = "Cont"
-weight = 5
-[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 4
