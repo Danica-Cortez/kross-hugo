@@ -40,7 +40,7 @@ sections:
   label: Others Page
 - type: directory
   path: exampleSite/content/contact
-  label: Contact
+  label: Contacts
   create: none
   match: "*"
 - type: heading
@@ -49,9 +49,8 @@ sections:
   path: exampleSite/content/contact/_index.md
   label: Contact Page
 - type: document
-  path: exampleSite/data/about.yml
+  path: exampleSite/data/contact.yml
   label: Contact Data
-  match: "**/*"
 - type: heading
   label: Configuration
 - type: directory
