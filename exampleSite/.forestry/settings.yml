@@ -37,11 +37,10 @@ sections:
   path: exampleSite/data/about.yml
   label: About Data
 - type: heading
-  label: Others Page
+  label: Contact
 - type: document
   path: exampleSite/content/contact/_index.md
   label: Contact Page
-  match: "**/*"
 - type: document
   path: exampleSite/data/contact.yml
   label: Contact Data
