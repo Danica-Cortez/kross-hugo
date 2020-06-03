@@ -38,11 +38,10 @@ sections:
   label: About Data
 - type: heading
   label: Others Page
-- type: directory
-  path: exampleSite/content/contact
-  label: Contacts
-  create: none
-  match: "*"
+- type: document
+  path: exampleSite/content/contact/_index.md
+  label: Contact Page
+  match: "**/*"
 - type: document
   path: exampleSite/data/contact.yml
   label: Contact Data
