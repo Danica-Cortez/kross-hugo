@@ -1,0 +1,39 @@
+---
+work_process:
+  enable: true
+  title: About the Author
+  item:
+  - title: Work Ethic
+    icon: images/icons/plan.png
+    content: |-
+      “Lo que fácil viene, fácil se va”
+
+      With the personal and professional philosophy that the most rewarding things in life require hard work, Danica welcomes adversity as a sign of something brighter on the horizon.
+  - title: Background
+    icon: images/icons/print.png
+    content: |-
+      Born in California, Danica Cortez is a proud latina who has traveled the world through academic and professional opportunities. From completing her undergraduate degree in France to participating in Eurostat’s job shadowing program in Luxembourg, Danica is always looking for challenging opportunities in her career and personal life.
+
+      Currently completing her Master of Science in Applied Statistics in the beautiful city of Prague, she hopes to continue to innovate the field of data science.
+  - title: Interests
+    icon: images/icons/design.png
+    content: |-
+      Outside of her passion for data science, Danica also loves trying new recipes, gardening and traveling. She is slowly progressing in her goal to visit every Eurasian country.
+
+      Having developed an interest in yoga, she also believes that taking a moment to yourself everyday to practice mindfulness can go a long way in transforming limiting thoughts into productive, healthy habits.
+team:
+  enable: false
+  title: My Team
+  team_member:
+  - title: Jack Schenziwe
+    image: images/team/member-1.png
+    designation: Project Manager
+  - title: Julias Carlie
+    image: images/team/member-2.png
+    designation: Web Developer
+  - title: John Doe
+    image: images/team/member-3.png
+    designation: Designer
+clients_logo_slider:
+  enable: false
+  title: My Clients
