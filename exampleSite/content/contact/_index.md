@@ -1,5 +1,5 @@
 ---
-title: About
+title: Contact
 description: This is meta description.
 author_image: "/images/cvpic_lowmb.png"
 
