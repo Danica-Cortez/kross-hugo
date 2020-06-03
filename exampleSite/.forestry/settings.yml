@@ -43,6 +43,10 @@ sections:
   label: Contact
   create: none
   match: "*"
+- type: document
+  path: exampleSite/data/contact.yml
+  label: Contact Page
+  match: "**/*"
 - type: heading
   label: Configuration
 - type: directory
