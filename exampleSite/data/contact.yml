@@ -1,6 +1,6 @@
 ---
 work_process:
-  enable: true
+  enable: false
   title: About the Author
   item:
   - title: Work Ethic
