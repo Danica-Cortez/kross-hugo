@@ -43,11 +43,6 @@ sections:
   label: Contacts
   create: none
   match: "*"
-- type: heading
-  label: Contact
-- type: document
-  path: exampleSite/content/contact/_index.md
-  label: Contact Page
 - type: document
   path: exampleSite/data/contact.yml
   label: Contact Data
