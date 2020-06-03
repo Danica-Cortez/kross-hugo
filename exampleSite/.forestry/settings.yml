@@ -46,7 +46,7 @@ sections:
 - type: heading
   label: Contact
 - type: document
-  path: exampleSite/data/contact.yml
+  path: exampleSite/content/contact/_index.md
   label: Contact Page
 - type: heading
   label: Configuration
