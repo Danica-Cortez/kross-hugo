@@ -1,7 +1,7 @@
 ---
 item:
 - title: Portfolio Item
-  image: images/portfolio/item-1.png
+  image: "/images/coronavirus-cases-usa-map.png"
   project_url: https://culturecat.netlify.app/blog/coronavirus-map/
   categories:
   - R
