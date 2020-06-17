@@ -2,7 +2,7 @@
 item:
 - title: Portfolio Item
   image: images/portfolio/item-1.png
-  project_url: https://culturecat.netlify.app/blog/data-visualizations/
+  project_url: https://culturecat.netlify.app/blog/coronavirus-map/
   categories:
   - R
   - Data Visualization
