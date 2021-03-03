@@ -18,16 +18,13 @@ skill:
   item:
   - title: R
     progress: 100%
-    color: "#9473e6"
+    color: "#bdecf6"
   - title: Python
     progress: 80%
     color: "#9473e6"
   - title: SQL
     progress: 100%
     color: "#fdb157"
-  - title: Excel
-    progress: 100%
-    color: "#bdecf6"
   - title: Power BI
     progress: 90%
     color: "#ffbcaa"
